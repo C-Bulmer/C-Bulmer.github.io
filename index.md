@@ -5,17 +5,16 @@ permalink: /
 feature_row:
   - image_path: /assets/images/feature-img.png
     alt: "Alternative text for image"
-    title: "Project title"
-    excerpt: "summary of project."
-    url: "/portfolio/project-filename/"
+    title: "Soulsync"
+    excerpt: "Senior Class Project 2025-2026"
+    url: "/portfolio/SoulSync/"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
 
 
-# Title
+# Projects
 
-Page content
 
 
 {% include feature_row %}

@@ -8,4 +8,9 @@ entries_layout: grid
 author_profile: true
 ---
 
-Page content goes here ...
+Itch.io Page
+permalink: https://damp-weasel.itch.io/
+
+Artstation Page
+permalink: https://www.artstation.com/dampweasel
+
