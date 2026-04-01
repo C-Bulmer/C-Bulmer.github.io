@@ -2,14 +2,13 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Site Title
-email: Your email
+title: Cormac Bulmer Portfolio
+email: cormacb0621@gmail.com
 description: >-
-  short description of the site
+  Links to my various accounts and some of my bigger projects
 
 # Branding & Social
-twitter_username: 
-github_username:  
+github_username: C-Bulmer 
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
@@ -34,7 +33,7 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "default"
-site_author: "Your Name"
+site_author: "Cormac Bulmer"
 paginate: 5
 words_per_minute: 200
 
@@ -102,22 +101,22 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Your Name"
-  avatar : "/assets/images/blank-profile-picture"
-  bio    : "short bio line"
+  name   : "Cormac Bulmer"
+  avatar : "/assets/images/Almudron_Temp"
+  bio    : "Aspiring Game Designer from Tulsa, Oklahoma"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/cormac-bulmer-222ba1335/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/C-Bulmer"  
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
-      url: "https://itch.io"
+      url: "https://damp-weasel.itch.io/"
     - label: "ArtStation"
       icon: "fab fa-fw fa-artstation"
-      url: "https://www.artstation.com/"
+      url: "https://dampweasel.artstation.com/"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions

@@ -7,13 +7,13 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Short sidebar summary of project requirements/needs."
+project_brief: "Small Unity roguelike with multiple levels and multiplayer"
 project_role: "Narrative Team Lead, Design Team"
 project_tools: "Unity, Github, Blender, WWise"
 project_date: "May 2026"
 ---
 ## Heading 
-Written deliverables go here
+Led the Narrative team which focused on developing Story, Dialogue, and Cutscenes. Occasionally worked on tasks for Art team when needed.
 
 ### Resources
 - Itch Page: https://rjp5546.itch.io/soulsync
