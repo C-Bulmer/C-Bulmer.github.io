@@ -1,6 +1,6 @@
 ---
 layout: blog # Custom post list with thumbnail (teaser) image layout
-title: "Title"
+title: "Blog Posts"
 permalink: /posts/
 author_profile: true
 entries_layout: list
@@ -9,4 +9,4 @@ header:
   overlay_image: 
 ---
 
-Page content goes here ...
+
