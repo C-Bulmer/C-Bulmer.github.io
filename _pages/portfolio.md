@@ -8,9 +8,4 @@ entries_layout: grid
 author_profile: true
 ---
 
-Itch.io Page
-permalink: https://damp-weasel.itch.io/
-
-Artstation Page
-permalink: https://www.artstation.com/dampweasel
-
+A few of the bigger projects that I have worked on over the years.

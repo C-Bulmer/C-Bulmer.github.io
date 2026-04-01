@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/feature-img.png
+  - image_path: /assets/images/SoulSync.png
     alt: "Alternative text for image"
     title: "Soulsync"
     excerpt: "Senior Class Project 2025-2026"
