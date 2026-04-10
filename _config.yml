@@ -102,7 +102,7 @@ collections:
 
 author:
   name   : "Cormac Bulmer"
-  avatar : "/assets/images/icon.png/"
+  avatar : "/assets/images/icon.png"
   bio    : "Aspiring Game Designer from Tulsa, Oklahoma"
   links:
     - label: "LinkedIn"
