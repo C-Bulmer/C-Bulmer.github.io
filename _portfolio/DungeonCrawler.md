@@ -1,6 +1,6 @@
 ---
 title: "Dungeon Crawler"
-excerpt: "Template post"
+excerpt: "Text based game"
 
 header:
   overlay_image: 

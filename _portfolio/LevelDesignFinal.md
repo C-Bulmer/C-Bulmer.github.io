@@ -1,6 +1,6 @@
 ---
 title: "Level Design Final"
-excerpt: "Template post"
+excerpt: "Final project for level design class"
 
 header:
   overlay_image: 

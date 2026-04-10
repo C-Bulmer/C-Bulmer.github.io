@@ -1,6 +1,6 @@
 ---
 title: "Pistol Pirate"
-excerpt: "Template post"
+excerpt: "Midterm for game programming"
 
 header:
   overlay_image: 

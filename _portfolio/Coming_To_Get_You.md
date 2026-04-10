@@ -1,6 +1,6 @@
 ---
 title: "Coming To Get You"
-excerpt: "Template post"
+excerpt: "Animation Final"
 
 header:
   overlay_image: 

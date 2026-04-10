@@ -1,6 +1,6 @@
 ---
 title: "Animation Midterm"
-excerpt: "Template post"
+excerpt: "Animation final"
 
 header:
   overlay_image: 

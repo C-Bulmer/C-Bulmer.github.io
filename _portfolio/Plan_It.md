@@ -1,6 +1,6 @@
 ---
 title: "Plan-It"
-excerpt: "Template post"
+excerpt: "Midterm for Intro to Game Design"
 
 header:
   overlay_image: 
