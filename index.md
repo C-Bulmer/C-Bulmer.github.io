@@ -10,9 +10,7 @@ feature_row:
     url: "/portfolio/SoulSync/"
     btn_label: "View"
     btn_class: "btn--primary"
-
-
-feature_row:
+    
   - image_path: /assets/images/TEST.jpg/
     alt: "Alternative text for image"
     title: "AEGIS"
