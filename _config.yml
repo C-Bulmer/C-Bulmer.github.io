@@ -102,8 +102,8 @@ collections:
 
 author:
   name   : "Cormac Bulmer"
-  avatar : "/assets/images/PFP.png"
-  bio    : "Aspiring Game Designer from Tulsa, Oklahoma"
+  avatar : "/assets/images/blank-profile-picture.png"
+  bio    : "Aspiring Gme Designer from Tulsa, Oklahoma"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
