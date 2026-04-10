@@ -16,7 +16,7 @@ feature_row:
 
 
 feature_row:
-  - image_path: /assets/images/Almudron.png/
+  - image_path: /assets/images/TEST.jpg/
     alt: "Alternative text for image"
     title: "AEGIS"
     excerpt: "GameJam Submission"
