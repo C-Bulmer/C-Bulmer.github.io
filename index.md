@@ -11,6 +11,10 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
+
+
+
+
 feature_row:
   - image_path: /assets/images/Almudron.png/
     alt: "Alternative text for image"
