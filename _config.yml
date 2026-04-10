@@ -32,7 +32,7 @@ plugins:
 # 🎨 Theme Settings
 # -----------------------------------------------------------------------------
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "dark"
 site_author: "Cormac Bulmer"
 paginate: 5
 words_per_minute: 200
