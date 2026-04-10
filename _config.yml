@@ -15,7 +15,7 @@ github_username: C-Bulmer
 # -----------------------------------------------------------------------------
 
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "C-Bulmer.github.io"
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
