@@ -102,7 +102,7 @@ collections:
 
 author:
   name   : "Cormac Bulmer"
-  avatar : "/assets/images/Almudron_Temp"
+  avatar : "/assets/images/Almudron_Temp.png"
   bio    : "Aspiring Game Designer from Tulsa, Oklahoma"
   links:
     - label: "LinkedIn"
