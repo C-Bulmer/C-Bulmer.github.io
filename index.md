@@ -12,9 +12,6 @@ feature_row:
     btn_class: "btn--primary"
 
 
-
-
-
 feature_row:
   - image_path: /assets/images/TEST.jpg/
     alt: "Alternative text for image"
