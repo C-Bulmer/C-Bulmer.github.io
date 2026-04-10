@@ -7,13 +7,13 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Test"
-project_role: "Test"
-project_tools: "Test"
-project_date: "Test"
+project_brief: "Unreal Arena fighter made for the Unlikely Collaborators GameJam"
+project_role: "Level Designer and 3d modeler"
+project_tools: "Unreal, Blender, Diversion"
+project_date: "April 5th, 2026"
 ---
 ## Heading 
 Test
 
 ### Resources
-- Test
+- Itch.io link: [Itch.io link](https://jaydenyounger.itch.io/aegis)
