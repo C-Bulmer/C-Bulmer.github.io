@@ -9,4 +9,6 @@ header:
   overlay_image: 
 ---
 
+Various posts about the industry or games I've played recently.
+
 

@@ -16,6 +16,6 @@ project_date: "May 2026"
 Led the Narrative team which focused on developing Story, Dialogue, and Cutscenes. Occasionally worked on tasks for Art team when needed.
 
 ### Resources
-- Itch Page: https://rjp5546.itch.io/soulsync
-- Github repository: https://github.com/csg-utulsa/SeniorProduction2025
-- WWise Github Repository: https://github.com/csg-utulsa/SeniorProduction2025_WwiseProject
+- [Itch Page](https://rjp5546.itch.io/soulsync)
+- [Github repository](https://github.com/csg-utulsa/SeniorProduction2025)
+- [WWise Github Repository](https://github.com/csg-utulsa/SeniorProduction2025_WwiseProject)

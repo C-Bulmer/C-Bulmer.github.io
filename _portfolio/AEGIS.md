@@ -16,4 +16,4 @@ project_date: "April 5th, 2026"
 Worked on Level design for the Sea and Underworld sections of the game. Created a few models in game such as the broken chest and the Shield throw markers.
 
 ### Resources
-- Itch.io link: [Itch.io link](https://jaydenyounger.itch.io/aegis)
+- [Itch.io link](https://jaydenyounger.itch.io/aegis)
