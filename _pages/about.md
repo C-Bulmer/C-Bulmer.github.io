@@ -3,11 +3,6 @@ layout: single
 title: "About Me"
 permalink: /about/
 author_profile: true
-
-header:
-  overlay_image: /assets/images/Damp_Weasel.png
-  teaser: 
-  overlay_filter: 0.5
 ---
 
 
