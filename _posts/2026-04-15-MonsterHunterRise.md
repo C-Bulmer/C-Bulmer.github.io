@@ -13,7 +13,7 @@ tags:
   - Multiplayer
   - Monster Hunter
 header:
-  overlay_image: /assets/images/Rise_Logo.png
+  overlay_image: /assets/images/TEST.png
   overlay_filter: 0
-  caption: "Photo credit: [Capcom]"
+  caption: ""
 ---
