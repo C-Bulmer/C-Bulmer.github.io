@@ -14,6 +14,7 @@ project_date: "November 07, 2022"
 ---
 ## Heading 
 Created the general gameplay loop of the game as well as helping refine board and game piece design.
+ A simple board game made for Introduction to Game Design with 4 other classmates. I came up with the core gameplay loop of Catan-esque territory capturing and resource extraction. The first game I had made with a group. It taught me a lot about group work and how to manage and distribute tasks for maximum efficiency. Despite being a freshman year group project the work we put into was excellent, so much so that the professor still keeps the game board we had made in the classroom.
 
 ### Resources
 - [Itch.io Link](https://damp-weasel.itch.io/plan-it)
