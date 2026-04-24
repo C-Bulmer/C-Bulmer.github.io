@@ -1,6 +1,6 @@
 ---
 title: "Monster Hunter: Rise"
-excerpt: "Short summary of  post"
+excerpt: ""
 date: 2026-04-15
 layout: single
 author_profile: true
