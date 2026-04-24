@@ -3,7 +3,7 @@ title: "Plan-It"
 excerpt: "Midterm for Intro to Game Design"
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/PlanIt.jpeg
   teaser: 
   overlay_filter: 0.5
 

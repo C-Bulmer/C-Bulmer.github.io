@@ -3,7 +3,7 @@ title: "SoulSync"
 excerpt: "Computer Simulation and Gaming's Senior Project"
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/SoulSync.png
   teaser: 
   overlay_filter: 0.5
 

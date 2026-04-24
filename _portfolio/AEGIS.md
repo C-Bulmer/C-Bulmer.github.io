@@ -3,7 +3,7 @@ title: "AEGIS"
 excerpt: " Unlikely Collaborators GameJam Game"
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/AEGIS.jpg
   teaser: 
   overlay_filter: 0.5
 
