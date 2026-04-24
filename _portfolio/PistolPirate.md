@@ -7,13 +7,14 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Test"
-project_role: "Test"
-project_tools: "Test"
-project_date: "Test"
+project_brief: "An arcade bottle shooter set in a pirate outpost"
+project_role: "Solo Developer"
+project_tools: "Unity, Blender"
+project_date: "December 18, 2024"
 ---
 ## Heading 
-Test
+Created the entire game from scratch using licensed models from the Cosmos.
 
 ### Resources
-- Test
+- [Itch.Io Link](https://damp-weasel.itch.io/pirate-shooter)
+- [Assets Link](https://cosmos.leartesstudios.com/products/stylized-port-city)

@@ -7,13 +7,13 @@ header:
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Test"
-project_role: "Test"
-project_tools: "Test"
-project_date: "Test"
+project_brief: "A group project made for introduction to game design"
+project_role: "Developer"
+project_tools: "Physical, Itch.io"
+project_date: "November 07, 2022"
 ---
 ## Heading 
-Test
+Created the general gameplay loop of the game as well as helping refine board and game piece design.
 
 ### Resources
-- Test
+- [Itch.io Link](https://damp-weasel.itch.io/plan-it)

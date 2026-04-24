@@ -11,7 +11,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/TEST.jpg
+  - image_path: /assets/images/AEGIS.jpg
     alt: ""
     title: "AEGIS"
     excerpt: "GameJam Submission"
