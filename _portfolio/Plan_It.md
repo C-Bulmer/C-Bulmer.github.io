@@ -10,7 +10,7 @@ header:
 project_brief: "A group project made for introduction to game design"
 project_role: "Developer"
 project_tools: "Physical, Itch.io"
-project_date: "November 07, 2022"
+project_date: "November 7, 2022"
 ---
 ## Heading 
 Created the general gameplay loop of the game as well as helping refine board and game piece design.

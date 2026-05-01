@@ -10,7 +10,7 @@ header:
 project_brief: "Short animated video made for Animation class"
 project_role: "Animator"
 project_tools: "Blender"
-project_date: "December 15 2025"
+project_date: "December 15, 2025"
 ---
 ## Heading 
 Created the animation in blender using free models from blender and audio from George Romero's Night of the Living Dead.
