@@ -10,8 +10,8 @@ categories:
   - Game
   - category 2
 tags:
-  - tag 1
-  - tag 2
+  - Single Player
+  - Kingdom Hearts
 header:
   overlay_image: /assets/images/KHBBS.png
   overlay_filter: 0.5
