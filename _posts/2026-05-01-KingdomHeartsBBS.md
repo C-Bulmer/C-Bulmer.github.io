@@ -1,7 +1,7 @@
 ---
 title: "Kingdom Hearts: Birth By Sleep: FINAL MIX"
 excerpt: ""
-date: 
+date: 2026-05-01
 layout: single
 author_profile: true
 read_time: true
