@@ -3,7 +3,7 @@ title: "Animation Midterm"
 excerpt: "Animation final"
 
 header:
-  overlay_image: assets/images/Coming_Get_You.png
+  overlay_image:
   teaser: 
   overlay_filter: 0.5
 

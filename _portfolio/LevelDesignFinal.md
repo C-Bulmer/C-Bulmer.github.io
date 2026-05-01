@@ -3,7 +3,7 @@ title: "Level Design Final"
 excerpt: "Final project for level design class"
 
 header:
-  overlay_image: assets/images/leveldesign.png
+  overlay_image: 
   teaser: 
   overlay_filter: 0.5
 

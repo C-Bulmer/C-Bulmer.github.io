@@ -3,7 +3,7 @@ title: "Coming To Get You"
 excerpt: "Animation Final"
 
 header:
-  overlay_image: assets/images/Coming_Get_You.png
+  overlay_image: 
   teaser: 
   overlay_filter: 0.5
 

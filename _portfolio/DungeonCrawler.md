@@ -3,7 +3,7 @@ title: "Dungeon Crawler"
 excerpt: "Text based game"
 
 header:
-  overlay_image: assets/images/Skull.png
+  overlay_image: 
   teaser: 
   overlay_filter: 0.5
 

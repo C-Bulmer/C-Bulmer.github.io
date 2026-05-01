@@ -3,7 +3,7 @@ title: "Pistol Pirate"
 excerpt: "Midterm for game programming"
 
 header:
-  overlay_image: assets/images/Pistol.jpg
+  overlay_image:
   teaser: 
   overlay_filter: 0.5
 
